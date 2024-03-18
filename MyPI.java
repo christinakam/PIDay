@@ -1,6 +1,6 @@
 public class MyPI {
-  private static String PI;  // millions of digits of PI
-  private static long NUMPI; // number of digits of PI
+  private static String PI;  
+  private static long NUMPI; 
   public static String getPI() {
     return PI;
   }
